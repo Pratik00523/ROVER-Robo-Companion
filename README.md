@@ -1,2 +1,3 @@
 # ROVER-Robo-Companion
-Major Project . A table top bot companion.
+[MAJOR PROJECT]:
+ROVER is a table top digital companion.
